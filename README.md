@@ -14,11 +14,11 @@
 
 <h2 align="center">🌟 Sosyal medya hesaplarım!</h2>
 <p align="center">
-  <a href="https://instagram.com/shendds" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;"/>
+  <a href="https://instagram.com/shendjs" target="blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="margin: 10px;"/>
   </a>
   <a href="https://open.spotify.com/user/njz9ky3zieofo3id8fivwcqvd" target="blank">
-    <img src="https://img.shields.io/badge/Spotify-%1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="border-radius: 10px;"/>
+    <img src="https://img.icons8.com/fluent/48/000000/spotify.png" alt="Spotify" style="margin: 10px;"/>
   </a>
 </p>
 
