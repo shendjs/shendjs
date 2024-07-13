@@ -11,13 +11,3 @@
 - Şu anda Bandırma Onyedi Eylül Üniversitesi'nde eğitimime devam ediyorum, hâlâ da kendimi geliştirmekteyim, her zaman da kendimi geliştirmeye devam edeceğim.
 
 ---
-
-<h2 align="center">🌟 Sosyal medya hesaplarım!</h2>
-<p align="center">
-  <a href="https://instagram.com/shendds" target="blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="margin: 10px; display:inline-block;"/>
-  </a>
-  <a href="https://open.spotify.com/user/njz9ky3zieofo3id8fivwcqvd" target="blank">
-    <img src="https://img.icons8.com/fluent/48/000000/spotify.png" alt="Spotify" style="margin: 10px; display:inline-block;"/>
-  </a>
-</p>
