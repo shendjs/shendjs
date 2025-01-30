@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba Github! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=shendjs&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="shendjs" />
 </p>
 
 🎉 Tekrardan herkese selam!
