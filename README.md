@@ -49,7 +49,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shendjs&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shendjs&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 <br/>
@@ -67,7 +69,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Öne Çıkan Projelerim</b>
 
 <div align="center">
-  <a href="https://github.com/shendjs/PROJE_ADI](https://github.com/shendjs/Daemon-AI">
+  <a href="https://github.com/shendjs/Daemon-AI]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shendjs&repo=PROJE_ADI&theme=tokyonight&hide_border=true" alt="Proje Adı" />
   </a>
   <!-- Daha fazla proje eklenebilir -->
