@@ -68,10 +68,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Öne Çıkan Projelerim</b>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Öne Çıkan Projelerim</b>
 <div align="center">
   <a href="https://github.com/shendjs/Daemon-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shendjs&repo=PROJE_ADI&theme=tokyonight&hide_border=true" alt="Proje Adı" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shendjs&repo=Daemon-AI&theme=tokyonight&hide_border=true" alt="Daemon-AI" />
   </a>
+</div>
   <!-- Daha fazla proje eklenebilir -->
 </div>
 
