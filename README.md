@@ -49,9 +49,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shendjs&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shendjs&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -65,8 +63,6 @@
 
 <!-- Animasyonlu yatay çizgi -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Öne Çıkan Projelerim</b>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Öne Çıkan Projelerim</b>
 <div align="center">
