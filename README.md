@@ -48,10 +48,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shendjs&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
 <br/>
 
 <!-- Katkı grafiği -->
@@ -96,11 +92,6 @@
 </div>
 
 <br/>
-
-<!-- Animasyonlu yılan -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
 
 <!-- Son mesaj -->
 <div align="center">
